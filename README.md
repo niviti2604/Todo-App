@@ -3,6 +3,7 @@
 A simple and efficient Todo application built using Vite.
 
 > **Note:** The main application logic and source files are located in the `src` directory inside the `vite-project` folder.
+
 ![Todo]<img width="947" height="410" alt="Screenshot 2026-01-09 003926" src="https://github.com/user-attachments/assets/36be2c8b-9b2d-4184-8f42-7a84e029e1e8" />
 
 ##  Getting Started
