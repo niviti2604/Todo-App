@@ -34,7 +34,9 @@ npm run dev
 ```
 Open your browser and navigate to the URL shown in the terminal
 
-Project Structure
+## Project Structure
+
+```text
 Todo-App/
 └── vite-project/
     ├── src/            <-- Main application code is here
