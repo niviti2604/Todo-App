@@ -1,9 +1,8 @@
 # Todo App
 
 A simple and efficient Todo application built using Vite.
-```text
+
 [Link to website](https://todolist2604.netlify.app/)
-```
 
 > **Note:** The main application logic and source files are located in the `src` directory inside the `vite-project` folder.
 
